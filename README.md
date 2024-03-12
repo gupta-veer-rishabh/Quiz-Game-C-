@@ -1,3 +1,3 @@
 # QUIZ
-My Frist Project Based on C++
+My first project Based on C++
 it's a G.K Quiz game
